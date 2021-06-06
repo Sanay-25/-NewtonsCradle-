@@ -32,7 +32,8 @@ function setup() {
 function draw() {
   rectMo=(CENTER);
   background(255);
-  
+  text("PRESS UP ARROW", 350,30);
+	
   roof.display()
   rope1.display();
   rope2.display();
